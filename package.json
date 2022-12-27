@@ -8,9 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mdi/font": "5.9.55",
+    "@vuepic/vue-datepicker": "^3.6.3",
     "core-js": "^3.8.3",
+    "roboto-fontface": "*",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.3",
+    "vuetify": "3.0.6",
+    "webfontloader": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
